@@ -29,8 +29,8 @@ const Projects = () => {
       title: "Portfolio Website",
       description: "A modern and responsive portfolio website showcasing the skills and projects",
       techStack: ["React.js", "TypeScript", "Tailwind", "shadcn/ui", "Vercel"],
-      // liveUrl: "yumaaji.vercel.app",
-      // githubUrl: "https://github.com",
+      liveUrl: "yumapangestu.vercel.app",
+      githubUrl: "https://github.com/dazai-ops/web-dev-portfolio",
     },
   ];
 
