@@ -19,11 +19,11 @@ const Projects = () => {
       githubUrl: "https://github.com/dazai-ops/spotify-personality-insight",
     },
     {
-      title: "To-do List Mobile App",
-      description: "A simple and user-friendly to-do list app for mobile devices, built with React Native",
-      techStack: ["React Native"],
-      // liveUrl: "https://demo.example.com",
-      githubUrl: "https://github.com/dazai-ops/ukk-todo-list-mobile",
+      title: "Deepfocus Pomodoro",
+      description: "Minimalist and customizable pomodoro to lock in focus, side quest with simple to-do list section, no account, no login",
+      techStack: ["React.js", "TypeScript", "Tailwind", "Vercel"],
+      liveUrl: "https://deeplockin.vercel.app/pomodoro",
+      githubUrl: "https://github.com/dazai-ops/lockin-pomodoro",
     },
     {
       title: "Portfolio Website",
@@ -31,6 +31,13 @@ const Projects = () => {
       techStack: ["React.js", "TypeScript", "Tailwind", "shadcn/ui", "Vercel"],
       liveUrl: "yumapangestu.vercel.app",
       githubUrl: "https://github.com/dazai-ops/web-dev-portfolio",
+    },
+    {
+      title: "To-do List Mobile App",
+      description: "A simple and user-friendly to-do list app for mobile devices, built with React Native",
+      techStack: ["React Native"],
+      // liveUrl: "https://demo.example.com",
+      githubUrl: "https://github.com/dazai-ops/ukk-todo-list-mobile",
     },
   ];
 
